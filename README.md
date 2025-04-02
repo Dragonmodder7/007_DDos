@@ -10,3 +10,4 @@ git clone https://github.com/Dragonmodder7/007_DDos/tree/main
 cd 007_DDos.py
 chmod +x 007_DDos.py
 python 007_DDos.py
+# O desenvolvedor não se responsabiliza por qualquer uso inadequado desta ferramenta.
